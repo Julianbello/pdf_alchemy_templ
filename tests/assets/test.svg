@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+  <rect width="800" height="500" fill="white"/>
+  <rect x="200" y="100" width="400" height="300" fill="blue"/>
+  <text x="400" y="220" text-anchor="middle"
+        font-family="Arial" font-size="50" fill="white">
+    TEST IMAGE
+  </text>
+  <text x="400" y="280" text-anchor="middle"
+        font-family="Arial" font-size="30" fill="white">
+    PDF Alchemy
+  </text>
+</svg>
